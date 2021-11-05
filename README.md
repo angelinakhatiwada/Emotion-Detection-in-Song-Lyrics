@@ -24,6 +24,7 @@ To find and use the Telegram Bot, please follow the instructions:
  2.  Find  the  bot  by  username  (Botticelli  or  @botti_cielo_bot)  in  the  in-app search bar and select the bot from the list;
  3.  Start a conversation with Botticelli bot and follow the commands.
 
+![Figure10](https://user-images.githubusercontent.com/60095044/140586036-8054745d-5f7d-40db-af08-718520d52c0c.png)
 
 
 
