@@ -19,4 +19,13 @@ Google Colab was used to run the models. \
 **Telegram bot is built to provide users a playlist of 5 songs** given the input genre and emotion. Chatbot is hosted on Heroku service which makes it available 24/7.\
 *Please, see telegram bot/bot.py*
 
+To find and use the Telegram Bot, please follow the instructions:
+ 1.  Install and open Telegram messenger (mobile or web version);
+ 2.  Find  the  bot  by  username  (Botticelli  or  @botti_cielo_bot)  in  the  in-app search bar and select the bot from the list;
+ 3.  Start a conversation with Botticelli bot and follow the commands.
+
+
+
+
+
 
