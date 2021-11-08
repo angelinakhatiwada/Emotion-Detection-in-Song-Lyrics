@@ -16,7 +16,7 @@ Google Colab was used to run the models. \
 *Please, see Emotion_classification.ipynb*
 
 ### Part 4: 
-**Telegram bot is built to provide users a playlist of 5 songs** given the input genre and emotion. Chatbot is hosted on Heroku service which makes it available 24/7.\
+**Telegram bot was built to provide users a playlist of 5 songs** given the input genre and emotion. Chatbot is hosted on Heroku service which makes it available 24/7.\
 *Please, see telegram bot/bot.py*
 
 To find and use the Telegram Bot, please follow the instructions:
